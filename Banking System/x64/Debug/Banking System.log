@@ -1,0 +1,7 @@
+﻿  Banking System.cpp
+C:\Users\brahi\Desktop\Banking System\Banking System\Banking System.cpp(345,1): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+C:\Users\brahi\Desktop\Banking System\Banking System\Banking System.cpp(462,1): warning C4715: 'DepositBalanceToClientByAccountNumber': not all control paths return a value
+C:\Users\brahi\Desktop\Banking System\Banking System\Banking System.cpp(400,1): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+C:\Users\brahi\Desktop\Banking System\Banking System\Banking System.cpp(833,1): warning C4715: 'DeleteUserByUsername': not all control paths return a value
+C:\Users\brahi\Desktop\Banking System\Banking System\Banking System.cpp(877,1): warning C4715: 'UpdateUserByUsername': not all control paths return a value
+  Banking System.vcxproj -> C:\Users\brahi\Desktop\Banking System\x64\Debug\Banking System.exe

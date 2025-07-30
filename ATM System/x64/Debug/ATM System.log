@@ -1,0 +1,4 @@
+﻿  ATM System.cpp
+C:\Users\brahi\Desktop\Banking System\ATM System\ATM System.cpp(36,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\brahi\Desktop\Banking System\ATM System\ATM System.cpp(164,1): warning C4715: 'DepositBalanceToClientByAccountNumber': not all control paths return a value
+  ATM System.vcxproj -> C:\Users\brahi\Desktop\Banking System\x64\Debug\ATM System.exe

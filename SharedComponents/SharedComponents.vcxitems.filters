@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Data">
+      <UniqueIdentifier>{ac3ebeab-327b-46a6-8f52-c85946e76201}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="$(MSBuildThisFileDirectory)Clients.txt">
+      <Filter>Data</Filter>
+    </Text>
+    <Text Include="$(MSBuildThisFileDirectory)Users.txt">
+      <Filter>Data</Filter>
+    </Text>
+  </ItemGroup>
+</Project>

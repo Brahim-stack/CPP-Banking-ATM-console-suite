@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\brahi\\Desktop\\Banking System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB49609D-9012-49A3-8F3B-E94C2E6F0821}|ATM System\\ATM System.vcxproj|C:\\Users\\brahi\\Desktop\\Banking System\\ATM System\\ATM System.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB49609D-9012-49A3-8F3B-E94C2E6F0821}|ATM System\\ATM System.vcxproj|solutionrelative:ATM System\\ATM System.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A231FA5C-0F5B-418F-9C47-A441EF57C0FF}|Banking System\\Banking System.vcxproj|C:\\Users\\brahi\\Desktop\\Banking System\\Banking System\\Banking System.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A231FA5C-0F5B-418F-9C47-A441EF57C0FF}|Banking System\\Banking System.vcxproj|solutionrelative:Banking System\\Banking System.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ATM System.cpp",
+              "DocumentMoniker": "C:\\Users\\brahi\\Desktop\\Banking System\\ATM System\\ATM System.cpp",
+              "RelativeDocumentMoniker": "ATM System\\ATM System.cpp",
+              "ToolTip": "C:\\Users\\brahi\\Desktop\\Banking System\\ATM System\\ATM System.cpp",
+              "RelativeToolTip": "ATM System\\ATM System.cpp",
+              "ViewState": "AgIAAGsBAAAAAAAAAAAAAIMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-30T09:17:52.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Banking System.cpp",
+              "DocumentMoniker": "C:\\Users\\brahi\\Desktop\\Banking System\\Banking System\\Banking System.cpp",
+              "RelativeDocumentMoniker": "Banking System\\Banking System.cpp",
+              "ToolTip": "C:\\Users\\brahi\\Desktop\\Banking System\\Banking System\\Banking System.cpp",
+              "RelativeToolTip": "Banking System\\Banking System.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANADAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-30T09:17:16.34Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
